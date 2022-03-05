@@ -1,6 +1,7 @@
 # Rafael Jesus Saraiva API
 
-Api for the website [rafaeljesusaraiva.pt](https://rafaeljesusaraiva.pt).
+Api for the website [rafaeljesusaraiva.pt](https://rafaeljesusaraiva.pt).  
+Repo to check out: https://github.com/GeekyAnts/express-typescript-postgres
 
 ## Installation
 
