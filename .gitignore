@@ -1,0 +1,10 @@
+# Directories...
+dist
+node_modules
+testing/
+.vscode/
+
+# Files...
+config/index.ts
+*lock.json
+.DS_Store

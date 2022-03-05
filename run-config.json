@@ -1,0 +1,14 @@
+{
+  "running-prefix": "rjsapi",
+  "load-balancer": {
+    "ip": "127.0.0.1",
+    "port": ["2000", "2001"]
+  },
+  "services": [
+    {
+      "name": "auth",
+      "ip": "127.0.0.1",
+      "port": ["3000", "3001"]
+    }
+  ]
+}
